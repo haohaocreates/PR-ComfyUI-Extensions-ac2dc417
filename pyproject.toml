@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-extensions"
+description = "Custom javascript extensions for better UX for ComfyUI. Supported nodes: PreviewImage, SaveImage. Double click on image to open."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/ailex000/ComfyUI-Extensions"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Extensions"
+Icon = ""
